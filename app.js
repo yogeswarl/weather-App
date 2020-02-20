@@ -53,3 +53,12 @@ window.addEventListener("load", () => {
         return skycons.set(iconID,Skycons[currentIcon])
     }
 });
+
+window.onload = () => {
+    'use strict';
+  
+    if ('serviceWorker' in navigator) {
+      navigator.serviceWorker
+               .register('./sw.js');
+    }
+  }

@@ -3,12 +3,12 @@
     "name": "Weather App",
     "icons": [
       {
-        "src": "./images/app-image.png",
+        "src": "./weather-App/images/app-image.png",
         "type": "image/png",
         "sizes": "192x192"
       },
       {
-        "src": "./images/app-image.png",
+        "src": "./weather-App/images/app-image.png",
         "type": "image/png",
         "sizes": "512x512"
       }

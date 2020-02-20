@@ -1,10 +1,10 @@
 var cacheName = 'WeatherPwa';
 var filesToCache = [
-  '/',
-  '/index.html',
-  '/style.css',
-  '/app.js',
-  '/skycons.js'
+  '/weather-App',
+  '/weather-App/index.html',
+  '/weather-App/style.css',
+  '/weather-App/app.js',
+  '/weather-App/skycons.js'
 ];
 
 /* Start the service worker and cache all of the app's content */

@@ -2,7 +2,8 @@ var cacheName = 'weather-App';
 var filesToCache = [
   '/index.html',
   '/style.css',
-  '/app.js'
+  '/app.js',
+  './skycons.js'
 ];
 
 /* Start the service worker and cache all of the app's content */

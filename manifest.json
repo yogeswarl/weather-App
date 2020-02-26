@@ -3,7 +3,7 @@
     "name": "Weather App",
     "icons": [
       {
-        "src": "./images/app-imagex192.png",
+        "src": "./images/app-image.png",
         "type": "image/png",
         "sizes": "192x192"
       },
@@ -13,7 +13,7 @@
         "sizes": "512x512"
       }
     ],
-    "start_url": "/weather-App",
+    "start_url": ".",
     "background_color": "#3367D6",
     "display": "standalone",
     "theme_color": "#2f96a3"

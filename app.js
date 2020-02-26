@@ -52,8 +52,8 @@ window.addEventListener("load", () => {
         skycons.play();
         return skycons.set(iconID,Skycons[currentIcon])
     }
-    if ('serviceWorker' in navigator) {
-        navigator.serviceWorker
-                 .register('./sw.js');
-      }
+    // if ('serviceWorker' in navigator) {
+    //     navigator.serviceWorker
+    //              .register('./sw.js');
+    //   }
 });
